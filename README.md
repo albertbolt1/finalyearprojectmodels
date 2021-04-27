@@ -2,10 +2,12 @@
 pynb files used to create models 
 
 Plant disease detection 
-...........................
+<hr>
+<br>
 
 DATA
-...........................
+<hr>
+<br>
 we used the kaggle dataset <a> https://www.kaggle.com/vipoooool/new-plant-diseases-dataset</a> 
 which has plant leaf images divided into 38 classes , each class represents a disease.
 The dataset is split into training and validation set , the train set has about 70K images and the validation set has about 17.5 k images. 
