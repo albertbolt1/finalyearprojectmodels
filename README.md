@@ -4,7 +4,7 @@ pynb files used to create models
 Plant disease detection 
 <br>
 
-<h1><u><b>DATA</b></u></h1>
+<h1 style="text-decoration: underline;"><b>DATA</b></h1>
 <br>
 we used the kaggle dataset 
 <a> https://www.kaggle.com/vipoooool/new-plant-diseases-dataset</a> 
@@ -27,7 +27,7 @@ layers of Resnet50 and added batch normalization ,global pooling and dense layer
 This gave us an accuracy of 99.8 percent .
 
 <hr>
-<h3><b>WHERE ARE THE MODELS USED</b></h3>
+<h3 style="text-decoration: underline;"><b>WHERE ARE THE MODELS USED</b></h3>
 
 We went ahead with Resnet50 model and made a tflite model out of it . 
 
