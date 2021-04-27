@@ -8,7 +8,7 @@ Plant disease detection
 <br>
 we used the kaggle dataset 
 <br>
-<a> https://www.kaggle.com/vipoooool/new-plant-diseases-dataset</a> 
+<a href="https://www.kaggle.com/vipoooool/new-plant-diseases-dataset"> https://www.kaggle.com/vipoooool/new-plant-diseases-dataset</a> 
 which has plant leaf images divided into 38 classes 
 <br>
 Each class represents a disease.
