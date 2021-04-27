@@ -4,8 +4,7 @@ pynb files used to create models
 Plant disease detection 
 <br>
 
-<h1><b>DATA</b></h1>
-<hr>
+<h1><u><b>DATA</b></u></h1>
 <br>
 we used the kaggle dataset 
 <a> https://www.kaggle.com/vipoooool/new-plant-diseases-dataset</a> 
